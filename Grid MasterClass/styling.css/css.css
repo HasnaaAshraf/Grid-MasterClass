@@ -1,0 +1,348 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+
+.learn-more-container{
+
+    width: 100%;
+    background-color: #f7f8f9;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    margin: auto;
+
+
+}
+
+
+.learn-more-container>h3{
+
+    font-family:Montserrat, sans-serif;
+    font-weight: 700;
+    color: rgb(159, 163, 167);
+    font-size: 0.8rem;
+  padding-top: 2.5rem;
+
+   
+}
+
+
+.learn-more-container>h2{
+    
+    font-family: Arvo, sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    color: rgb(51, 51, 51);
+    padding: 0 3rem;
+    text-align: center;
+}
+
+.learn-more-container>a{
+font-family: "Open Sans", sans-serif;
+font-size: 1rem;
+font-weight: 200;
+color:rgb(39, 185, 194);
+padding-bottom: 3rem;
+
+}
+
+.iphone-container{
+
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+    margin: auto;
+
+}
+
+.iphone-content{
+    text-align: left;
+    width: 40%;
+}
+
+.iphone-content>h3{
+    font-family:Montserrat, sans-serif;
+    font-weight: 700;
+    color: rgb(177, 179, 181);
+    font-size: 0.8rem;
+  padding-top: 2.5rem;
+
+}
+
+.iphone-content>h2{
+    font-family: Arvo, sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: rgb(51, 51, 51);
+    
+}
+
+.iphone-content>p{
+    font-family: "Open Sans", sans-serif;
+    font-size: 1rem;
+    font-weight: 100;
+    color:  rgb(165, 165, 165);
+
+    padding: 1rem 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+    margin-left: -0.8rem;
+  
+    
+}
+
+.iphone-img {
+width: 50%;
+margin-top: 2.8rem;
+margin-right: 1.5rem;
+
+}
+
+
+
+.brand-games-container{
+ 
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+
+.our-Brand-container{
+    width: 50%;
+    margin: auto;
+    background-color: rgb(252, 88, 59);
+    text-align: center;
+
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+    margin-left: -10px;
+
+    margin: 0;
+}
+
+.our-Brand-container>img{
+    width: 100%;
+}
+
+
+
+.our-Brand-container>h2{
+    color: white;
+    font-family: Arvo, sans-serif;
+
+}
+
+.our-Brand-container .a-brand{
+
+    color: #ffc80a;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+
+    padding: 5rem 0;
+
+}
+
+
+.Games-container{
+    background-color: #f7f8f9;
+    width: 50%;
+    margin: auto;
+
+    text-align: center;
+
+    padding-top: 1.5rem;
+    padding-bottom: 2rem;
+
+    margin: 0;
+   
+
+}
+
+.Games-container>img{
+    width: 90%;
+}
+
+.Games-container>h2{
+
+    font-family: Arvo, sans-serif;
+    color: rgb(49, 49, 49);
+    font-weight: 400;
+    font-size: 1.4rem;
+    padding: 0 5rem;
+
+    padding-bottom: 1rem;
+    
+}
+
+.Games-container .a-games{
+
+    color:rgb(39, 185, 194);
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+
+
+}
+
+
+.imac-container{
+
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.img-h3-container{
+
+    width: 50%;
+
+}
+
+
+.img-h3{
+
+    margin: auto;
+
+}
+
+
+.img-h3>h3{
+
+    font-family:Montserrat, sans-serif;
+    font-weight: 700;
+    color: rgb(177, 179, 181);
+    font-size: 0.8rem;
+
+    padding-top: 1.5rem;
+    padding-left: 2rem;
+    
+}
+
+
+.img-h3>h2{
+
+    font-family: Arvo, sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+    color: rgb(51, 51, 51);
+
+    padding: 0 1.5rem ;
+
+    padding-bottom: 1rem;
+    
+    padding-left: 2rem;
+
+
+}
+
+
+.img-h3 img{
+    margin-left: -16rem;
+
+}
+
+.imac-content-container{
+
+    /* background-color: rgb(101, 101, 143); */
+    margin: auto;
+    width: 50%;
+    /* position: absolute; */
+    right: 10px;
+    text-align: left;
+
+
+}
+
+
+.imac-content>h2{
+    font-family: "Open Sans", sans-serif;
+    font-weight: 100;
+    color:rgb(173, 176, 179);
+    font-size: 1rem;
+
+    padding: 2rem 4.4rem;
+
+    margin-left: -2rem;
+
+}
+
+.imac-content>a{
+    font-family: "Open Sans", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color:rgb(39, 185, 194);
+    padding-bottom: 6rem;
+    text-decoration: none;
+
+    margin-left: 2.5rem;
+}
+
+
+.connect-popular-Best-container{
+
+    width: 100%;
+
+    margin: 0;
+   
+}
+
+
+.connect-container{
+
+    background-color:  #38d5f4;
+
+    width: 50% ;
+
+    height: 380px;
+
+    position: relative;
+
+    margin: 0;
+    
+    
+}
+
+.border{
+    background-color: #38cdeb;
+    border-radius: 60%;
+
+    text-align: center;
+
+    position: absolute;
+
+    top: 4.8rem;
+    bottom: 4.8rem;
+   
+}
+
+.border>img{
+
+    margin-top: 3rem;
+}
+
+
+.border>h2{
+
+    /* margin-top: 5rem; */
+    padding: 0 1rem;
+    color: white;
+    font-family: Arvo, sans-serif;
+    font-weight: 300;
+}
+
+
